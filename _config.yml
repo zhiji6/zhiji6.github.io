@@ -109,8 +109,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: alex
-    url:
-    #https://www.linkedin.com/in/zhiji-6-30028643
+    url: #https://www.linkedin.com/in/zhiji-6-30028643
     desc: Connect with me on LinkedIn
     share: true
 
