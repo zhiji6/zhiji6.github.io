@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: njanquan
+title: 南京网络安全
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: 554635616@qq.com
+name: alex.liu
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 root: "/njanquan"
 baseurl: "/njanquan" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://zhiji6.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
