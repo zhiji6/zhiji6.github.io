@@ -117,7 +117,7 @@ social:
   - name: Google+
     icon: google-plus
     username:
-    url:https://plus.google.com/u/0/100920303239894717211
+    url: https://plus.google.com/u/0/100920303239894717211
     desc: Add me to your Circles
     share: true
 
