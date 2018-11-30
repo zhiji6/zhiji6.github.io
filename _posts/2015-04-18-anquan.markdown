@@ -3,7 +3,7 @@ layout: post
 title:  "Dummy Post 6"
 date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: 安全
+categories: 安全产品
 tags: lorem ipsum
 ---
 
