@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: nanjing security
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "A simple yet classy security for nanjing network or enterprise"
 email: 554635616@qq.com
 name: alex.liu
 description: >
@@ -51,7 +51,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
+  - cat: 安全产品1
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
   - cat: 安全产品
