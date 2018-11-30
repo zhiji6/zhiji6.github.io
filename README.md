@@ -1,4 +1,6 @@
-# Centrarium [![Circle CI](https://circleci.com/gh/zhiji6/zhiji6.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/zhiji6/zhiji6.github.io/tree/master)
+# Centrarium 
+[![travis CI](https://api.travis-ci.com/zhiji6/zhiji6.github.io.svg?branch=master)](https://api.travis-ci.com/zhiji6/zhiji6.github.io.svg?branch=master)
+[![Circle CI](https://circleci.com/gh/zhiji6/zhiji6.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/zhiji6/zhiji6.github.io/tree/master)
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
