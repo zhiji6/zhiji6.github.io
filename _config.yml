@@ -54,6 +54,9 @@ descriptions:
   - cat: security-soft
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
+  - cat: 安全产品
+    desc: "Posts describing Jekyll setup techniques."
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
