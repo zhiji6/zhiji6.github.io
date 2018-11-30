@@ -1,0 +1,6 @@
+#1、安装bundler
+gem install bundler
+#2、安装依赖
+bundle install
+#3、启动服务
+bundle exec jekyll serve
