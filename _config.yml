@@ -55,7 +55,7 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
   - cat: 安全产品
-      desc: "Posts describing Jekyll setup techniques."
+    desc: "Posts describing Jekyll setup techniques."
 
   - cat: 解决方案
     desc: "Just some placeholder posts, lorem ipsum and the rest."
