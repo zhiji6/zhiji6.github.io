@@ -90,7 +90,7 @@ social:
   - name: Twitter
     icon: twitter
     username: alex
-    url: https://twitter.com/zhiji6
+    #url: https://twitter.com/zhiji6
     desc: Follow me on Twitter
     share: true
 
@@ -104,7 +104,7 @@ social:
   - name: GitHub
     icon: github
     username: zhiji6
-    url: https://github.com/zhiji6
+    #url: https://github.com/zhiji6
     desc: Fork me on GitHub
     share: false
 
